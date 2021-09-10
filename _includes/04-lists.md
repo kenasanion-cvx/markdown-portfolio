@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+- I am
+- Awesome
+- This is a list
